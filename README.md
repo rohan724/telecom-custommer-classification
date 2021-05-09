@@ -1,14 +1,6 @@
 # telecom-custommer-classification
 customer category classification of telecom firm
 
-#### Project description
-To predict the target values for the test.csv. 
-
-#### task:
-find a good machine learning model to predict the target value. Then predict the target values of the instances in the test.csv. 
-- Save the final prediction array as ``final_test_prediction``. 
-- <font color = 'red'> The final prediction will be evaluated using the **macro precision** function. </font>
-
 #### Dataset
 The data set contains various information about a Telecommunication company customers like age, region etc.The list of information is as follow. 
 
